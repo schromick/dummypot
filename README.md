@@ -1,2 +1,2 @@
 # dummypot
-Dummypot is a honey pot for personal information
+Dummypot is a honey pot for personal disinformation
